@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="brand-guidelines.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.3641268"
+     inkscape:cx="617.24466"
+     inkscape:cy="-243.74566"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer7">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="508"
+       height="285.75"
+       id="page1"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="518"
+       y="0"
+       width="508"
+       height="285.75"
+       id="page2"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="1036"
+       y="0"
+       width="508"
+       height="285.75"
+       id="page3"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="1554"
+       y="0"
+       width="508"
+       height="285.75"
+       id="page4"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="2072"
+       y="0"
+       width="508"
+       height="285.75"
+       id="page5"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="tiling"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="12"
+       num_cols="12"
+       gapx="24"
+       gapy="24"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="false"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" />
+    <inkscape:path-effect
+       effect="tiling"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="12"
+       num_cols="12"
+       gapx="24"
+       gapy="24"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="false"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" />
+    <inkscape:path-effect
+       effect="tiling"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="12"
+       num_cols="12"
+       gapx="24"
+       gapy="24"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="false"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" />
+    <inkscape:path-effect
+       effect="tiling"
+       id="path-effect12-8"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="12"
+       num_cols="12"
+       gapx="24"
+       gapy="24"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="false"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" />
+    <inkscape:path-effect
+       effect="tiling"
+       id="path-effect12-8-0"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="12"
+       num_cols="12"
+       gapx="24"
+       gapy="24"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="false"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="g14"
+     inkscape:label="Layer 5">
+    <rect
+       style="fill:#ffffff;stroke-width:0.325743"
+       id="rect14"
+       width="508"
+       height="285.75"
+       x="2072"
+       y="1.0658141e-14"
+       inkscape:label="background" />
+    <path
+       style="opacity:0.1;fill:#000000;stroke-width:0.325743"
+       id="path14"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0"
+       inkscape:path-effect="#path-effect16"
+       sodipodi:type="rect"
+       d="M 0,0 H 508 V 285.75 H 0 Z m 532,0 h 508 V 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 285.75 H 5852 Z M 0,309.75 H 508 V 595.5 H 0 Z m 532,0 h 508 V 595.5 H 532 Z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 H 5852 Z M 0,619.5 H 508 V 905.25 H 0 Z m 532,0 h 508 V 905.25 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 905.25 H 5852 Z M 0,929.25 H 508 V 1215 H 0 Z m 532,0 h 508 V 1215 H 532 Z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 H 5852 Z M 0,1239 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,1548.75 H 508 V 1834.5 H 0 Z m 532,0 h 508 V 1834.5 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 1834.5 H 5852 Z M 0,1858.5 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,2168.25 H 508 V 2454 H 0 Z m 532,0 h 508 V 2454 H 532 Z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 H 5852 Z M 0,2478 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,2787.75 H 508 V 3073.5 H 0 Z m 532,0 h 508 V 3073.5 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 3073.5 H 5852 Z M 0,3097.5 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,3407.25 H 508 V 3693 H 0 Z m 532,0 h 508 V 3693 H 532 Z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z"
+       transform="matrix(0.07987421,0,0,0.07737612,2072,-1.116e-5)"
+       inkscape:label="grid" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g12"
+     inkscape:label="Layer 4"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke-width:0.325743"
+       id="rect12"
+       width="508"
+       height="285.75"
+       x="1554"
+       y="0"
+       inkscape:label="background" />
+    <path
+       style="opacity:0.1;fill:#000000;stroke-width:0.325743"
+       id="path12"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0"
+       inkscape:path-effect="#path-effect14"
+       sodipodi:type="rect"
+       d="M 0,0 H 508 V 285.75 H 0 Z m 532,0 h 508 V 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 285.75 H 5852 Z M 0,309.75 H 508 V 595.5 H 0 Z m 532,0 h 508 V 595.5 H 532 Z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 H 5852 Z M 0,619.5 H 508 V 905.25 H 0 Z m 532,0 h 508 V 905.25 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 905.25 H 5852 Z M 0,929.25 H 508 V 1215 H 0 Z m 532,0 h 508 V 1215 H 532 Z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 H 5852 Z M 0,1239 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,1548.75 H 508 V 1834.5 H 0 Z m 532,0 h 508 V 1834.5 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 1834.5 H 5852 Z M 0,1858.5 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,2168.25 H 508 V 2454 H 0 Z m 532,0 h 508 V 2454 H 532 Z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 H 5852 Z M 0,2478 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,2787.75 H 508 V 3073.5 H 0 Z m 532,0 h 508 V 3073.5 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 3073.5 H 5852 Z M 0,3097.5 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,3407.25 H 508 V 3693 H 0 Z m 532,0 h 508 V 3693 H 532 Z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z"
+       transform="matrix(0.07987421,0,0,0.07737612,1554,-1.116e-5)"
+       inkscape:label="grid" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 3"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke-width:0.325743"
+       id="rect5-7-4"
+       width="508"
+       height="285.75"
+       x="1036"
+       y="0"
+       inkscape:label="background" />
+    <path
+       style="opacity:0.1;fill:#000000;stroke-width:0.325743"
+       id="rect5-3-5"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0"
+       inkscape:path-effect="#path-effect12-8-0"
+       sodipodi:type="rect"
+       d="M 0,0 H 508 V 285.75 H 0 Z m 532,0 h 508 V 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 285.75 H 5852 Z M 0,309.75 H 508 V 595.5 H 0 Z m 532,0 h 508 V 595.5 H 532 Z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 H 5852 Z M 0,619.5 H 508 V 905.25 H 0 Z m 532,0 h 508 V 905.25 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 905.25 H 5852 Z M 0,929.25 H 508 V 1215 H 0 Z m 532,0 h 508 V 1215 H 532 Z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 H 5852 Z M 0,1239 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,1548.75 H 508 V 1834.5 H 0 Z m 532,0 h 508 V 1834.5 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 1834.5 H 5852 Z M 0,1858.5 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,2168.25 H 508 V 2454 H 0 Z m 532,0 h 508 V 2454 H 532 Z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 H 5852 Z M 0,2478 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,2787.75 H 508 V 3073.5 H 0 Z m 532,0 h 508 V 3073.5 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 3073.5 H 5852 Z M 0,3097.5 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,3407.25 H 508 V 3693 H 0 Z m 532,0 h 508 V 3693 H 532 Z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z"
+       transform="matrix(0.07987421,0,0,0.07737612,1036,0)"
+       inkscape:label="grid" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke-width:0.325743"
+       id="rect5-7"
+       width="508"
+       height="285.75"
+       x="518"
+       y="0"
+       inkscape:label="background" />
+    <path
+       style="opacity:0.1;fill:#000000;stroke-width:0.325743"
+       id="rect5-3"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0"
+       inkscape:path-effect="#path-effect12-8"
+       sodipodi:type="rect"
+       d="M 0,0 H 508 V 285.75 H 0 Z m 532,0 h 508 V 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 285.75 H 5852 Z M 0,309.75 H 508 V 595.5 H 0 Z m 532,0 h 508 V 595.5 H 532 Z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 H 5852 Z M 0,619.5 H 508 V 905.25 H 0 Z m 532,0 h 508 V 905.25 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 905.25 H 5852 Z M 0,929.25 H 508 V 1215 H 0 Z m 532,0 h 508 V 1215 H 532 Z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 H 5852 Z M 0,1239 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,1548.75 H 508 V 1834.5 H 0 Z m 532,0 h 508 V 1834.5 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 1834.5 H 5852 Z M 0,1858.5 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,2168.25 H 508 V 2454 H 0 Z m 532,0 h 508 V 2454 H 532 Z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 H 5852 Z M 0,2478 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,2787.75 H 508 V 3073.5 H 0 Z m 532,0 h 508 V 3073.5 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 3073.5 H 5852 Z M 0,3097.5 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,3407.25 H 508 V 3693 H 0 Z m 532,0 h 508 V 3693 H 532 Z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z"
+       transform="matrix(0.07987421,0,0,0.07737612,518.00002,0)"
+       inkscape:label="grid" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke-width:0.325743"
+       id="rect5-7-7"
+       width="508"
+       height="285.75"
+       x="2.8421709e-14"
+       y="-1.4210855e-14"
+       inkscape:label="background" />
+    <path
+       style="opacity:0.1;fill:#000000;stroke-width:0.325743"
+       id="rect5"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0"
+       inkscape:path-effect="#path-effect12"
+       sodipodi:type="rect"
+       d="M 0,0 H 508 V 285.75 H 0 Z m 532,0 h 508 V 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 285.75 H 5852 Z M 0,309.75 H 508 V 595.5 H 0 Z m 532,0 h 508 V 595.5 H 532 Z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 h -508 z m 532,0 h 508 V 595.5 H 5852 Z M 0,619.5 H 508 V 905.25 H 0 Z m 532,0 h 508 V 905.25 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 905.25 H 5852 Z M 0,929.25 H 508 V 1215 H 0 Z m 532,0 h 508 V 1215 H 532 Z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 h -508 z m 532,0 h 508 V 1215 H 5852 Z M 0,1239 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,1548.75 H 508 V 1834.5 H 0 Z m 532,0 h 508 V 1834.5 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 1834.5 H 5852 Z M 0,1858.5 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,2168.25 H 508 V 2454 H 0 Z m 532,0 h 508 V 2454 H 532 Z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 h -508 z m 532,0 h 508 V 2454 H 5852 Z M 0,2478 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,2787.75 H 508 V 3073.5 H 0 Z m 532,0 h 508 V 3073.5 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 V 3073.5 H 5852 Z M 0,3097.5 h 508 v 285.75 H 0 Z m 532,0 h 508 v 285.75 H 532 Z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 h -508 z m 532,0 h 508 v 285.75 H 5852 Z M 0,3407.25 H 508 V 3693 H 0 Z m 532,0 h 508 V 3693 H 532 Z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z m 532,0 h 508 V 3693 h -508 z"
+       transform="scale(0.07987421,0.07737612)"
+       inkscape:label="grid" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Sample">
+    <rect
+       style="opacity:0.1;fill:#000000;stroke-width:0.326654"
+       id="rect16"
+       width="331.28027"
+       height="192.79427"
+       x="0.38791597"
+       y="-205.59549"
+       inkscape:label="background" />
+    <g
+       id="g20"
+       inkscape:label="Color Pallete">
+      <rect
+         style="opacity:1;fill:#000000;stroke-width:0.264583"
+         id="rect19"
+         width="21.258099"
+         height="21.258099"
+         x="9.5103455"
+         y="-91.478401"
+         inkscape:label="Color 1" />
+      <rect
+         style="fill:#000000;stroke-width:0.264583"
+         id="rect19-6"
+         width="21.258099"
+         height="21.258099"
+         x="32.800819"
+         y="-91.580116"
+         inkscape:label="Color 2" />
+      <rect
+         style="fill:#000000;stroke-width:0.264583"
+         id="rect19-6-5"
+         width="21.258099"
+         height="21.258099"
+         x="56.091293"
+         y="-91.366402"
+         inkscape:label="Color 3" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.7625px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';fill:#000000;stroke-width:0.264583"
+         x="9.3109636"
+         y="-97.139992"
+         id="text19-5-1"
+         inkscape:label="Color Pallete"><tspan
+           sodipodi:role="line"
+           id="tspan19-7-7"
+           style="font-size:4.7625px;stroke-width:0.264583"
+           x="9.3109636"
+           y="-97.139992">Color Pallete</tspan></text>
+    </g>
+    <g
+       id="g19"
+       inkscape:label="Typhography">
+      <text
+         xml:space="preserve"
+         style="font-size:3.70417px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';fill:#000000;stroke-width:0.264583"
+         x="8.3585453"
+         y="-111.60701"
+         id="text19-3"
+         inkscape:label="H5"><tspan
+           sodipodi:role="line"
+           id="tspan19-9"
+           style="font-size:3.70417px;stroke-width:0.264583"
+           x="8.3585453"
+           y="-111.60701">The quick brown fox jumps over the lazy dog.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';fill:#000000;stroke-width:0.264583"
+         x="8.3378754"
+         y="-125.46632"
+         id="text19-4"
+         inkscape:label="H4"><tspan
+           sodipodi:role="line"
+           id="tspan19-1"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="8.3378754"
+           y="-125.46632">The quick brown fox jumps over the lazy dog.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.7625px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';fill:#000000;stroke-width:0.264583"
+         x="8.3172045"
+         y="-139.84341"
+         id="text19-5"
+         inkscape:label="H3"><tspan
+           sodipodi:role="line"
+           id="tspan19-7"
+           style="font-size:4.7625px;stroke-width:0.264583"
+           x="8.3172045"
+           y="-139.84341">The quick brown fox jumps over the lazy dog.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';fill:#000000;stroke-width:0.264583"
+         x="8.2965336"
+         y="-154.73831"
+         id="text19-8"
+         inkscape:label="H2"><tspan
+           sodipodi:role="line"
+           id="tspan19-2"
+           style="font-size:5.29167px;stroke-width:0.264583"
+           x="8.2965336"
+           y="-154.73831">The quick brown fox jumps over the lazy dog.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';opacity:1;fill:#000000;stroke-width:0.264583"
+         x="8.2551928"
+         y="-170.27504"
+         id="text19"
+         inkscape:label="H1"><tspan
+           sodipodi:role="line"
+           id="tspan19"
+           style="stroke-width:0.264583"
+           x="8.2551928"
+           y="-170.27504">The quick brown fox jumps over the lazy dog.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.7625px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';fill:#000000;stroke-width:0.264583"
+         x="9.1638632"
+         y="-186.22723"
+         id="text19-5-1-9"
+         inkscape:label="Typhography"><tspan
+           sodipodi:role="line"
+           id="tspan19-7-7-3"
+           style="font-size:4.7625px;stroke-width:0.264583"
+           x="9.1638632"
+           y="-186.22723">Typhograpy</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.7625px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';fill:#000000;stroke-width:0.264583"
+       x="10.702789"
+       y="-56.472824"
+       id="text19-5-1-2"
+       inkscape:label="Logo"><tspan
+         sodipodi:role="line"
+         id="tspan19-7-7-0"
+         style="font-size:4.7625px;stroke-width:0.264583"
+         x="10.702789"
+         y="-56.472824">Logo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.7625px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';fill:#000000;stroke-width:0.264583"
+       x="190.41425"
+       y="-186.94073"
+       id="text19-5-1-2-0"
+       inkscape:label="Others"><tspan
+         sodipodi:role="line"
+         id="tspan19-7-7-0-0"
+         style="font-size:4.7625px;stroke-width:0.264583"
+         x="190.41425"
+         y="-186.94073">Others</tspan></text>
+  </g>
+</svg>
